@@ -1,0 +1,49 @@
+.content {
+    padding: 3%;
+}
+
+.content ol li h1 {
+    color: brown;
+}
+
+.content ol li ul li span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+hr {
+    border-color: rgb(72, 198, 72);
+}
+
+.effecttype {
+    display: grid;
+    /*grid-template-columns: 70% 30%;*/
+}
+
+.effectdetails {
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+.effectimg img {
+    border-radius: 7px;
+}
+
+.content p {
+    font-size: large;
+}
+
+.subheading {
+    color:rgb(117, 34, 34);
+}
+
+img {
+    border-radius: 7px;
+    margin: 20px 0px 20px 10px;
+}
+
+h4 {
+    border: solid green 2px; 
+    border-radius: 7px; 
+    padding: 15px;
+}

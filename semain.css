@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(108, 247, 184, 0.536);
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px;
+    background-color: #e4c588;
+    box-shadow: 0 0 10px rgb(0 0 0 / 34%);
+    padding-bottom: 0px;
+    border-radius: 8px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1f1e1e;;
+    border-radius: 8px 8px 0 0;
+    padding: 0;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    background-color: rgba(77, 222, 94, 0.77);
+}
+
+.navbar ul li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #0c0c0c;
+}
+
+.navbar ul li a:hover {
+    background-color: #f1f1f1;
+}
+
+.bgimage {
+    background-image: url('https://bioneers.org/wp-content/uploads/2020/06/dylan-de-jonge-9SjCXUq_qSE-unsplash-scaled.jpg');
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 120px;
+}
+
+.hometext p {
+    text-align: center;
+    text-shadow: 0 0 5px white; 
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.heading {
+    padding: 50px;
+}
+
+.heading p {
+    text-align: left;
+    color:rgb(21, 21, 21);
+    font-size: 20px;
+}
+
+.heading h1 {
+    color: brown;
+    padding-top: 30px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #1f1e1e;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    border-radius: 0 0 8px 8px;
+}
+
+.footerinfo {
+    color:  rgba(77, 222, 94, 0.77);
+    padding-right: 5px;
+}
+
+.homecontent1 {
+    display: grid;
+    grid-template-columns: 35% 65%; 
+}
+
+.homecontent2 {
+    display: grid;
+    grid-template-columns: 40% 60%; 
+}
+
+img {
+    border-radius: 7px;
+}

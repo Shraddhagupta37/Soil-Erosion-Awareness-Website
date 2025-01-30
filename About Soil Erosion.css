@@ -1,0 +1,60 @@
+.content {
+    padding: 3%;
+}
+
+.content ol li h1 {
+    color: brown;
+}
+
+.content ol li ul li span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+hr {
+    border-color: rgb(72, 198, 72);
+}
+
+.erosiontype {
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+
+.erosiondetails {
+    margin-right: 10px;
+    border: solid green 2px; 
+    border-radius: 7px; 
+    margin-bottom: 40px; 
+    padding: 20px;
+}
+
+.erosionimg img {
+    border-radius: 7px;
+}
+
+.causedetails2 ul li h2 {
+    color:rgb(117, 34, 34);
+}
+
+.causes2 {
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+
+.causeimg img {
+    border-radius: 7px;
+    margin: 3px;
+}
+
+.causeimg {
+    padding-top: 80px;
+    margin-left: 30px;
+}
+
+figcaption {
+    background-color: rgb(185, 186, 187);
+}
+
+img {
+    border-radius: 7px;
+}

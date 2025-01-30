@@ -1,0 +1,33 @@
+.content {
+    padding: 3%;
+}
+
+.content ol li h1 {
+    color: brown;
+}
+
+.content ol li ul li span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+hr {
+    border-color: rgb(72, 198, 72);
+}
+
+ol li ul li ul li span {
+    color:rgb(117, 34, 34);
+}
+
+.methodtype {
+    display: grid;
+}
+
+.methoddetails {
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+img {
+    border-radius: 7px;
+}
